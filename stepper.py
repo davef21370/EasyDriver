@@ -7,7 +7,7 @@
 import easydriver as ed
 
 
-# Direction of rotation is dependant on how the motor is connected.
+# Direction of rotation is dependent on how the motor is connected.
 # If the motor runs the wrong way swap the values of cw and ccw.
 cw = True
 ccw = False
